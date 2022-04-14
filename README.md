@@ -13,9 +13,9 @@
 	<meta content="SPO777" name="Author">
 	<meta content="website" property="og:type">
 	<meta content="SPO777" name="generator">
-    <title>Sindikat303 - Link Alternatif SPO777.</title>
+    <title>SPO777 - Link Alternatif SPO777.</title>
 	<meta name="google-site-verification" content="CJUBUrHLpMujm9XaPu-Wi7ORbvdkp-_i5NRJARld_Ng" />
-	<meta content="Sindikat303 - Link Alternatif Sindikat303." itemprop="name">
+	<meta content="SPO777 - Link Alternatif SPO777." itemprop="name">
     <meta content="SPO777 - Link Alternatif SPO777." name="twitter:title">
     <meta content="SPO777 - Link Alternatif SPO777." name="twitter:image:alt">
     <meta content="SPO777 - Link Alternatif SPO777." property="og:image:alt">
@@ -28,7 +28,7 @@
 	<meta name="keywords" content="link alternatif, SPO777, antinawala, internet positif">
     <meta property="article:tag" content="link alternatif, SPO777, antinawala, internet positif">
 	    <!-- [ IMG ] -->
-    <link href="https://sindikat303.github.io/assets/img/share.png" rel="image_src">
+    <link href="https://SPO777.github.io/assets/img/share.png" rel="image_src">
     <meta content="https://SPO777.github.io/assets/img/share.png" itemprop="image">
     <meta content="https://SPO777.github.io/assets/img/share.png" property="og:image">
     <meta content="https://SPO777.github.io/assets/img/share.png" name="twitter:image">
@@ -54,7 +54,7 @@
     {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "name": "Sindikat303 - Link Alternatif SPO777.",
+        "name": "SPO777 - Link Alternatif SPO777.",
         "url": "https://SPO777.github.io/",
         "sameAs": [
             "https://www.instagram.com/spo77.7/",
